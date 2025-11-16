@@ -2,7 +2,7 @@
 
 # Radix
 
-Kyklos è un programma a riga di comando, scritto in C++, per approssimare la radice quadrata di un numero.
+Radix è un programma a riga di comando, scritto in C++, per approssimare la radice quadrata di un numero.
 
 ## Come funziona
 
